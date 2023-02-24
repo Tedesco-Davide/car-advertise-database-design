@@ -1,0 +1,25 @@
+-- Introduction
+
+Mike wants to start his own Car Advertise Website and would like to be helped with the data storage processes,
+with the design and implementation of a proper tailormade database.
+
+-- Client requests
+
+The client forsees only cars and users.
+
+Cars data required
+	- Model
+	- Year
+	- Brand
+	- Body
+	- Description
+	- Pictures
+
+Users data required
+	- Name and Surname
+	- Email
+	- Username
+
+The first step would be spec out all of the fields for the data we want to collect.
+Then I will be adding related tables and defining the table relationships.
+This process will be reducing redundancy and improve efficiency.
